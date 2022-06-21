@@ -1,5 +1,9 @@
 # Desafio-dio-github
 Primeiro repositório, desafio git/github
 
-## TESTE
-Só testando
+## Primeiro repositório
+Desafio proposto pela DIO com o objetivo de iniciarmos no GitHub
+
+
+
+
