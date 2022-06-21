@@ -9,7 +9,7 @@ Primeiro repositório, desafio git/github
 4 colheres de sopa de óleo
 1 xícara e meia de farinha de trigo
 
-*modo de preparo fica pra posixma
+*modo de preparo fica pra proxima*
 
 
 
